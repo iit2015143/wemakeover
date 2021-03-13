@@ -1,0 +1,27 @@
+
+Deleted - Post ID 1131 - page - Contact
+Deleted - Post ID 15 - nav_menu_item - 
+Deleted - Post ID 1132 - page - About
+Deleted - Post ID 1133 - nav_menu_item - 
+Deleted - Post ID 1134 -  - 
+Deleted - Post ID 1135 - elementor_library - Default Kit
+Deleted - Post ID 172 - elementor-hf - Footer
+Deleted - Post ID 209 - nav_menu_item - 
+Deleted - Post ID 235 - attachment - corporate-02-free-img
+Deleted - Post ID 207 - page - Classes
+Deleted - Post ID 234 - attachment - corporate-01-free-img
+Deleted - Post ID 372 - attachment - bg-0001-free-img
+Deleted - Post ID 409 - attachment - courses-06-free-img
+Deleted - Post ID 410 - attachment - courses-07-free-img
+Deleted - Post ID 411 - attachment - courses-08-free-img
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'WEMAKEOVER' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing MISC ----
+Post ID: 57
+Post ID: 58
+Post ID: 59
+Batch Process Complete!
